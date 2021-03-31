@@ -10,7 +10,7 @@ import logging # As suggested in Discussion 1B's slides
 log = True
 
 # Consts
-API_KEY = 'AIzaSyD0lU-3FGaPT9LZNi7piHVkQl1goU3gz0o'
+API_KEY = '' # Google API Key
 
 #server info as dicts
 servers = {"Hill": 12205, "Jaquez": 12206, "Smith": 12207, "Campbell": 12208, "Singleton": 12209}
